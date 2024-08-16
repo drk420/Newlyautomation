@@ -1,0 +1,73 @@
+2024-08-03 21:37:38,881 - ParaBankframework -INFO - framework started
+2024-08-03 21:37:46,268 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:37:56,760 - ParaBankframework -INFO - Test is failedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:38:03,203 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:38:11,828 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:38:11,836 - ParaBankframework -INFO - framework closed
+2024-08-03 21:40:39,413 - ParaBankframework -INFO - framework started
+2024-08-03 21:40:48,357 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:40:58,238 - ParaBankframework -INFO - Test is failedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:41:03,609 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:41:15,633 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:41:15,654 - ParaBankframework -INFO - framework closed
+2024-08-03 21:45:23,291 - ParaBankframework -INFO - framework started
+2024-08-03 21:45:28,843 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:45:34,331 - ParaBankframework -INFO - Test is failedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:45:38,043 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:45:46,902 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:45:46,908 - ParaBankframework -INFO - framework closed
+2024-08-03 21:48:43,302 - ParaBankframework -INFO - framework started
+2024-08-03 21:48:50,420 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:48:55,414 - ParaBankframework -INFO - Test is completedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:48:59,781 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:49:07,941 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:49:07,949 - ParaBankframework -INFO - framework closed
+2024-08-03 21:57:40,475 - ParaBankframework -INFO - framework started
+2024-08-03 21:57:46,075 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:57:51,466 - ParaBankframework -INFO - Test is completedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:57:54,678 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:58:08,387 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 21:58:08,395 - ParaBankframework -INFO - framework closed
+2024-08-03 22:01:31,946 - ParaBankframework -INFO - framework started
+2024-08-03 22:01:37,967 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 22:01:42,575 - ParaBankframework -INFO - Test is completedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 22:01:45,424 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 22:02:00,551 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-03 22:02:00,560 - ParaBankframework -INFO - framework closed
+2024-08-03 22:28:55,635 - ParaBankframework -INFO - framework started
+2024-08-03 22:29:28,921 - ParaBankframework -INFO - framework closed
+2024-08-03 22:32:01,669 - ParaBankframework -INFO - framework started
+2024-08-03 22:32:29,756 - ParaBankframework -INFO - framework closed
+2024-08-05 12:06:28,852 - ParaBankframework -INFO - framework started
+2024-08-05 12:06:47,977 - ParaBankframework -INFO - framework closed
+2024-08-05 12:12:22,661 - ParaBankframework -INFO - framework started
+2024-08-05 12:12:33,549 - ParaBankframework -INFO - framework closed
+2024-08-15 23:03:37,618 - ParaBankframework -INFO - framework started
+2024-08-15 23:05:00,588 - ParaBankframework -INFO - framework started
+2024-08-15 23:05:30,395 - ParaBankframework -INFO - framework closed
+2024-08-15 23:06:00,404 - ParaBankframework -INFO - framework started
+2024-08-15 23:06:08,475 - ParaBankframework -INFO - framework closed
+2024-08-15 23:07:04,716 - ParaBankframework -INFO - framework started
+2024-08-15 23:07:13,311 - ParaBankframework -INFO - framework closed
+2024-08-15 23:08:08,916 - ParaBankframework -INFO - framework started
+2024-08-15 23:08:23,659 - ParaBankframework -INFO - framework closed
+2024-08-15 23:15:30,232 - ParaBankframework -INFO - framework started
+2024-08-15 23:15:48,055 - ParaBankframework -INFO - framework closed
+2024-08-15 23:16:46,292 - ParaBankframework -INFO - framework started
+2024-08-15 23:17:04,050 - ParaBankframework -INFO - framework closed
+2024-08-15 23:20:07,857 - ParaBankframework -INFO - framework started
+2024-08-15 23:20:12,184 - ParaBankframework -INFO - Test is Startedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-15 23:20:17,878 - ParaBankframework -INFO - Test is failedwithinvalidateregisterfunctionalitywithvalidcredentials
+2024-08-15 23:20:21,654 - ParaBankframework -INFO - Test is Startedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-15 23:20:27,711 - ParaBankframework -INFO - Test is failedwithvalidateregisterfunctionalitywithvalidcredentials
+2024-08-15 23:20:30,457 - ParaBankframework -INFO - Test is Startedvalidateloginfunctionality
+2024-08-15 23:20:32,523 - ParaBankframework -INFO - Test is completedvalidateloginfunctionality
+2024-08-15 23:20:35,677 - ParaBankframework -INFO - Test is Startedvalidateregistration
+2024-08-15 23:20:42,222 - ParaBankframework -INFO - Test is failedvalidateregistration
+2024-08-15 23:20:42,420 - ParaBankframework -INFO - framework closed
+2024-08-15 23:21:18,168 - ParaBankframework -INFO - framework started
+2024-08-15 23:21:22,006 - ParaBankframework -INFO - Test is Startedvalidateloginfunctionality
+2024-08-15 23:21:24,125 - ParaBankframework -INFO - Test is completedvalidateloginfunctionality
+2024-08-15 23:21:27,159 - ParaBankframework -INFO - Test is Startedvalidateregistration
+2024-08-15 23:21:40,885 - ParaBankframework -INFO - Test is completedvalidateregistration
+2024-08-15 23:21:41,089 - ParaBankframework -INFO - framework closed
